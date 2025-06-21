@@ -19,3 +19,5 @@ editing the file
  updating the file 
 
 changes by user3
+
+new feature added in Git
