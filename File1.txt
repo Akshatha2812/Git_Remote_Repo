@@ -1,0 +1,21 @@
+This is the initial development phase
+
+This is the change from Indian team
+
+this is the change from US team
+
+this is change 2 from US team
+This is change 3 from India team
+this is change 4 from US team
+fixing the bug in 1.0 release
+change 5 from US team
+adding new features in the branch
+
+this file is locked by me (User1)
+
+this file is locked by User1
+
+editing the file 
+ updating the file 
+
+changes by user3
