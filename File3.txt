@@ -2,3 +2,4 @@ File added to local repository
 changes made in remote
 editing file in remote repository
 Changes made in local repository
+adding new feature in remote repo
