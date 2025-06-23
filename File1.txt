@@ -21,3 +21,5 @@ editing the file
 changes by user3
 
 new feature added in Git
+
+Adding sixth feature in local repo
