@@ -21,5 +21,9 @@ editing the file
 changes by user3
 
 new feature added in Git
+<<<<<<< HEAD
 
 Adding sixth feature in local repo
+=======
+Add fifth feature in Remote Repo
+>>>>>>> 797cab7f04837fc59c48ea61267885a7870f85c2
